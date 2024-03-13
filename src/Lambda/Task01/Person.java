@@ -1,8 +1,7 @@
-package Task01;
+package Lambda.Task01;
 
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.function.Consumer;
 
 public class Person {
     private String name, city;

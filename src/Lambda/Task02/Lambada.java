@@ -1,4 +1,4 @@
-package Task02;
+package Lambda.Task02;
 
 import java.util.ArrayList;
 import java.util.Arrays;
